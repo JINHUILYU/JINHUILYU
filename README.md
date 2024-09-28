@@ -30,5 +30,7 @@
   <a href="https://space.bilibili.com/53776665" target="_blank"><img src="https://img.icons8.com/?size=100&id=5E24fZ9ORelo&format=png&color=000000" target="_blank"></a> 
  </br>
 </br>
- ![Snake animation](https://github.com/jinhuilyu/jinhuilyu/blob/output/github-contribution-grid-snake.svg)
+ 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
