@@ -3,7 +3,7 @@
 
  <div>
   <a href="https://github.com/jinhuilyu">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINHUILYU&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINHUILYU&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JINHUILYU&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
@@ -27,9 +27,7 @@
   <a href="mailto: jh_lyu@outlook.com"><img height="40" align="center" src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" target="_blank"></a>
  </br>
 </br>
-
  
   ![Snake animation](https://github.com/JINHUILYU/JINHUILYU/blob/output/github-contribution-grid-snake.svg)
 
- 
 </div>
