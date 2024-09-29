@@ -27,7 +27,9 @@
   <a href="mailto: jh_lyu@outlook.com"><img height="40" align="center" src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" target="_blank"></a>
  </br>
 </br>
+
  
-  ![Snake animation](https://github.com/JINHUILYU/JINHUILYU/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JINHUILYU/JINHUILYU/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
