@@ -7,8 +7,8 @@
 
 ## 💻 Tech Stack
 
-  * **Programming Languages**: Python、C/C++、Go、Rust 等
-  * **OS**: \mu C/OS-II、xv6、Linux 0.11
+  * **Programming Languages**: Python、C/C++、Go、Rust
+  * **OS**: $\mu$ C/OS-II、xv6、Linux 0.11
 
 ## 📚 Learning & Growth
 
