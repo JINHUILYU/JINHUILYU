@@ -3,7 +3,7 @@
 ## 👀 About Me
 
   * **Name**: Via
-  * **Personal Website**: [JINHUILYU](https://jinhuilyu.github.io/))
+  * **Personal Website**: [JINHUILYU](https://jinhuilyu.github.io/)
 
 ## 💻 Tech Stack
 
