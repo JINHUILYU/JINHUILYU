@@ -15,18 +15,18 @@
 Currently, I am in a continuous learning and growth phase, with a strong curiosity and enthusiasm for the fields of Operating Systems, Large Language Models, Agents, and Quantitative Analysis.
 
 </br>
-  <p>
+  <!-- <p>
     <a href="https://github.com/jinhuilyu">
       <img src="https://github-readme-stats.vercel.app/api?username=JINHUILYU&show_icons=true&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINHUILYU&hide_border=true&layout=compact&langs_count=8" />
     </a>
-  </p>
+  </p> -->
   
-<!-- <div>
+<div>
   <a href="https://github.com/jinhuilyu">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINHUILYU&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JINHUILYU&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div> -->
+</div>
  
  ## Skills
 <div style="display: inline_block"><br>
