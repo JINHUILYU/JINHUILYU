@@ -5,11 +5,6 @@
   * **Name**: Via
   * **Personal Website**: [JINHUILYU](https://jinhuilyu.github.io/)
 
-## 💻 Tech Stack
-
-  * **Programming Languages**: Python、C/C++、Go、Rust
-  * **OS**: $\mu$ C/OS-II、xv6、Linux 0.11
-
 ## 📚 Learning & Growth
 
 Currently, I am in a continuous learning and growth phase, with a strong curiosity and enthusiasm for the fields of Operating Systems, Large Language Models, Agents, and Quantitative Analysis.
