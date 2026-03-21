@@ -15,8 +15,6 @@
 Currently, I am in a continuous learning and growth phase, with a strong curiosity and enthusiasm for the fields of Operating Systems, Large Language Models, Agents, and Quantitative Analysis.
 
 Self-motivation, Ideal, Experience, Realization.
-  
-</br>
 
 ## Contact 
 
