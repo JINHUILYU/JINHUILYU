@@ -15,21 +15,6 @@
 Currently, I am in a continuous learning and growth phase, with a strong curiosity and enthusiasm for the fields of Operating Systems, Large Language Models, Agents, and Quantitative Analysis.
 
 Self-motivation, Ideal, Experience, Realization.
-
-## Skills
-
-<div style="display: inline_block"><br>
-  <img height="40" align="center" alt="Erica-Ruby" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://img.icons8.com/?size=100&id=25423&format=png&color=000000">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://img.icons8.com/?size=100&id=44328&format=png&color=000000">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://img.icons8.com/?size=100&id=7ej5ASIwdQXG&format=png&color=000000">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://img.icons8.com/?size=100&id=meGB5Ip7aLFG&format=png&color=000000">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
   
 </br>
 
