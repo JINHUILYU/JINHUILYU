@@ -1,4 +1,4 @@
-# Hi, I am [Via](https://jinhuilyu.github.io/)
+# [Hi, I am Via](https://jinhuilyu.github.io/)
 
 ## 📚 Learning & Growth
 
