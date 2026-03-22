@@ -1,12 +1,10 @@
-# Hi, I am Via
+# Hi, I am [Via](https://jinhuilyu.github.io/)
 
 ## 📚 Learning & Growth
 
 Currently, I am in a continuous learning and growth phase, with a strong curiosity and enthusiasm for the fields of Operating Systems, Large Language Models, Agents, and Quantitative Analysis.
 
 Self-motivation, Ideal, Experience, Realization.
-
-**Personal Website**: [JINHUILYU](https://jinhuilyu.github.io/)
 
 ## Contact 
 
