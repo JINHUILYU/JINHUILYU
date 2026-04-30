@@ -6,6 +6,19 @@ Currently, I am in a continuous learning and growth phase, with a strong curiosi
 
 Self-motivation, Ideal, Experience, Realization.
 
+## 📊 GitHub Stats
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=JINHUILYU&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINHUILYU&theme=dark&layout=compact" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
 ## Contact 
 
 <div> 
