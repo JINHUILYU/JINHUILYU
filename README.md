@@ -2,7 +2,7 @@
 
 ## 📚 Learning & Growth
 
-Currently, I am in a continuous learning and growth phase, with a strong curiosity and enthusiasm for the fields of Operating Systems, Large Language Models, Agents, and Quantitative Analysis.
+Currently, I am in a continuous learning and growth phase, with a strong curiosity and enthusiasm for the fields of Airworthiness, Operating Systems, Large Language Models, Agents, and Quantitative Analysis.
 
 Self-motivation, Ideal, Experience, Realization.
 
